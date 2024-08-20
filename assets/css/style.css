@@ -318,4 +318,7 @@ hr {
     .info > a {
         border-bottom:  1px solid rgb(150, 148, 148);
 }
+.all {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
 }
